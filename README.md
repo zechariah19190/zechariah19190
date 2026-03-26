@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [zechariah.dev](zechariah.dev)
+- 👨‍💻 All of my projects are available at **zechariah.dev**
 
 - 📫 How to reach me **zechariahcukras@gmail.com**
 
