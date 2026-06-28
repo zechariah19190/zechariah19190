@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zechariah Cukras</h1>
-<h3 align="center">A passionate Software Engineer from South Florida</h3>
+<h3 align="center">A passionate Software Engineer in Central Florida</h3>
 
 - 🌱 I’m currently learning **React**
 
