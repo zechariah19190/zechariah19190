@@ -21,7 +21,7 @@ I'm a developer currently diving deep into **systems programming** with **Rust**
 ## 📫 Connect With Me
 
 - GitHub: [@zechariah19190](https://github.com/zechariah19190)
-- LinkedIn: [Zechariah Cukras](https://linkedin.com/in/zechariah_cukras)
+- LinkedIn: [Zechariah Cukras](https://linkedin.com/in/zechariah-cukras)
 
 ---
 
